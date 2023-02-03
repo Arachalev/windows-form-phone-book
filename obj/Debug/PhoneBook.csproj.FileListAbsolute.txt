@@ -1,0 +1,11 @@
+C:\Users\Ekong\Documents\WebDev\C#\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Ekong\Documents\WebDev\C#\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Ekong\Documents\WebDev\C#\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Ekong\Documents\WebDev\C#\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\Ekong\Documents\WebDev\C#\PhoneBook\obj\Debug\PhoneBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ekong\Documents\WebDev\C#\PhoneBook\obj\Debug\PhoneBook.DemoPhoneBook.resources
+C:\Users\Ekong\Documents\WebDev\C#\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Ekong\Documents\WebDev\C#\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\Ekong\Documents\WebDev\C#\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Ekong\Documents\WebDev\C#\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Ekong\Documents\WebDev\C#\PhoneBook\obj\Debug\PhoneBook.pdb
